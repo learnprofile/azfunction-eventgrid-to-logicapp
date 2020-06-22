@@ -2,7 +2,7 @@
 
 Part of Azure AppDev Challenge
 
-IoT Simulator https://github.com/gidavies/AlarmsIOTSimulator
+IoT Simulator https://github.com/markharrison/AlarmsIOTSimulator
 
 Docker command:
 
