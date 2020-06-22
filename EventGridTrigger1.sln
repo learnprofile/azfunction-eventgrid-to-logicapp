@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGridTrigger1", "EventGridTrigger1\EventGridTrigger1.csproj", "{2C59B7A2-51C8-4300-9C09-BA4CFF6D2D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C59B7A2-51C8-4300-9C09-BA4CFF6D2D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C59B7A2-51C8-4300-9C09-BA4CFF6D2D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C59B7A2-51C8-4300-9C09-BA4CFF6D2D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C59B7A2-51C8-4300-9C09-BA4CFF6D2D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9B4C48-AC04-4D08-A677-985D2F97E6FD}
+	EndGlobalSection
+EndGlobal
